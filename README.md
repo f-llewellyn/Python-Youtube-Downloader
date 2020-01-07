@@ -3,4 +3,4 @@
 
  Appologies if this is absulutely awful and doesn't work at all.
 
- This branch is for the experemental versions of the program, including additional features, allbeit poorly implemented, if functional at all.
+ This branch is for the experemental versions of the program, including additional features, albeit poorly implemented, if functional at all.
